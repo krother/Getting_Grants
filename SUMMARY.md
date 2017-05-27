@@ -9,5 +9,6 @@
 * [Grant reviewer archetypes](grant_reviewer_archetypes.md)
 * [How to convince the grant commission?](how_to_convince_the_grant_commission.md)
 * [Do's and Don'ts](dos_and_donts.md)
+* [Persuasion in a Grant Proposal](persuasion-grant-proposal.md)
 * [References](references.md)
 * [Acknowledgements](acknowledgements.md)

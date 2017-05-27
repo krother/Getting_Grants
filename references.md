@@ -1,10 +1,13 @@
 
-# References
+# Literature on Grant Writing
 
-[1] Jakob Kraicer, The Art of Grantsmanship (http://www.hfsp.org/funding/art-grantsmanship).
+The following references provide you with basic common knowledge on grant writing. While they don't replace a book, a course, let alone speaking to an experienced scientist about your application, they at least give you a starting point:
 
-[2] Tutis Vilis and Jane Rylett, guidelines for applicants.
+* [Ten Simple Rules for Getting Grants](http://www.ploscompbiol.org/article/info%3Adoi%2F10.1371%2Fjournal.pcbi.0020012)
+* [The Art of Grantsmanship by Jacob Kraicer](http://www.hfsp.org/funding/art-grantsmanship)
+* [A Fellowship Primer (HFSP) by Guntram Bauer](http://www.hfsp.org/sites/www.hfsp.org/files/webfm/PRIMER.pdf)
+* [The Back Door To Grant Funding, Morgan C Giddings](http://grantdynamo.com).
+* [Ten Simple Rules for Aspiring Scientists in a Low-Income Country](http://www.ploscompbiol.org/article/info%3Adoi%2F10.1371%2Fjournal.pcbi.1000024)
+* [Pockets of Plenty - Non-government Funds for Young Scientists by Leslie Knowlton](http://www.hfsp.org/sites/www.hfsp.org/files/webfm/Fellows/PocketsOfPlenty-NYAS.pdf)
 
-[3] Morgan C Giddings, The Back Door To Grant Funding (http://grantdynamo.com).
-
-[4] Philip E. Bourne, Leo M. Chalupa, Ten Simple Rules for getting Grants, PloS Computational Biology, 2006, 2, 2, e12.
+Have fun reading!
